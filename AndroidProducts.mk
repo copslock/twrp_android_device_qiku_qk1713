@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/lineage_qk1713.mk
+	$(LOCAL_DIR)/qk1713.mk
