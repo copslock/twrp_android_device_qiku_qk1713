@@ -31,7 +31,7 @@ $(call inherit-product, device/qiku/qk1713/device.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := qk1713
-PRODUCT_NAME := lineage_qk1713
+PRODUCT_NAME := qk1713
 PRODUCT_BRAND := 360
 PRODUCT_MODEL := QK1713
 PRODUCT_MANUFACTURER := 360
